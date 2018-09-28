@@ -1,6 +1,11 @@
 # Visual Studio user specific files
 .vs/
 
+# CLion user specific files
+cmake-build-debug/
+.idea/
+CMakeLists.txt
+
 # Compiled Object files
 *.slo
 *.lo
