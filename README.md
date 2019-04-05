@@ -6,6 +6,13 @@ Join our [Discord server](https://discord.gg/SuJP9fY) and ask us anything!
 
 ### CHANGELOG
 
+## v.1.1.2
+
++ ADDED Unreal Engine 4.22 support
++ REMOVED Redundant parameters in Java callback functions
+
+---
+
 ## v.1.1.1
 
 + FIXED Crash for release application builds with enabled IAP
