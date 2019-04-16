@@ -6,6 +6,12 @@ Join our [Discord server](https://discord.gg/SuJP9fY) and ask us anything!
 
 ### CHANGELOG
 
+## v.1.2.0
+
++ ADDED Capture photo
++ ADDED Pick image from gallery
++ ADDED Save image to gallery
+
 ## v.1.1.2
 
 + ADDED Unreal Engine 4.22 support
